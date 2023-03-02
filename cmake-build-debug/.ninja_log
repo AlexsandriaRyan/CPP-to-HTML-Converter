@@ -1,0 +1,10 @@
+# ninja log v5
+2	532	6965472171045145	CMakeFiles/Files.dir/src/main.cpp.obj	aafbb478ec9c2aeb
+1828	2601	6965472191670508	Files.exe	e5366094d2dbbd2b
+5	1828	6965472183925039	CMakeFiles/Files.dir/src/stringsIO.cpp.obj	900eb36f0106009a
+3	570	6977504941365174	CMakeFiles/Files.dir/src/main.cpp.obj	7e8cfb35d97c2f8d
+6	1940	6977504955000781	CMakeFiles/Files.dir/src/stringsIO.cpp.obj	54ea854d667f3503
+1940	2713	6977504962754822	Files.exe	51f6728d0ee828cf
+5	540	6977505427164072	CMakeFiles/Files.dir/src/main.cpp.obj	7e8cfb35d97c2f8d
+3	1850	6977505440192960	CMakeFiles/Files.dir/src/stringsIO.cpp.obj	54ea854d667f3503
+1851	2609	6977505447799417	Files.exe	51f6728d0ee828cf
